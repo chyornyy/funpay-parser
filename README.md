@@ -1,6 +1,6 @@
 # 🕷🕸 Funpay Parser
 
-## Star the Project
+## ⭐️ Star the Project
 If you find this project useful, please consider giving it a star on GitHub. This helps to raise awareness of the project and encourage more people to use and contribute to it.
 
 ## Description
