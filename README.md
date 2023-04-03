@@ -8,6 +8,7 @@ The Funpay Spider is a web scraper built with Scrapy that extracts information a
 
 ## Stack:
 [![Python 3.10](https://img.shields.io/badge/Python%203.9-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Scrapy](https://img.shields.io/badge/Scrapy-0E67df?style=for-the-badge&logo=scrapy&logoColor=white)](https://scrapy.org/)
 
 ## Installation
 To use the Funpay Spider, you must first clone the repository from GitHub:
