@@ -1,7 +1,10 @@
 # 🕷🕸 Funpay Parser
 
+## Star the Project
+If you find this project useful, please consider giving it a star on GitHub. This helps to raise awareness of the project and encourage more people to use and contribute to it.
+
 ## Description
-The Funpay Spider is a web scraper built with Scrapy that extracts information about lots on the Funpay marketplace. The spider prompts the user to enter the URL of the lot they want information about and then scrapes data from the lot's page, including the username of the seller, the price of the lot, the unit of the price, the amount of items the seller has for sale, the description of the lot, the number of 5-star ratings the seller has received, and whether the seller is on-site or off-site.
+The Funpay Spider is a web scraper built with Scrapy that extracts information about lots on the [https://funpay.com/](https://funpay.com/) marketplace. The spider prompts the user to enter the URL of the lot they want information about and then scrapes data from the lot's page, including the username of the seller, the price of the lot, the unit of the price, the amount of items the seller has for sale, the description of the lot, the number of 5-star ratings the seller has received, and whether the seller is on-site or off-site.
 
 ## Stack:
 [![Python 3.10](https://img.shields.io/badge/Python%203.9-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -42,7 +45,7 @@ This will save the data in JSON format to a file called output.json.
 
 ## Contributing
 If you want to contribute to the Funpay Spider, feel free to submit a pull request or open an issue on GitHub.
-Or you can contact me in telegram: t.me/chyornxx
+Or you can contact me in telegram: [@chyornxx](t.me/chyornxx)
 
 ## License
 Project is released under the MIT license.
